@@ -4,8 +4,8 @@ module.exports = {
 	language: "en",
 	description: "I am writing about my experiences as a naval navel-gazer.",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
-		url: "https://example.com/about-me/"
+		name: "David Varazinskis",
+		email: "dvarazinskis@gmail.com",
+		url: "https://timely-jalebi-a69f8f.netlify.app/"
 	}
 }
