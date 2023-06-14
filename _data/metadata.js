@@ -2,7 +2,7 @@ module.exports = {
 	title: "Eleventy Base Blog v8",
 	url: "https://timely-jalebi-a69f8f.netlify.app/",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "Im learning to be a coder.",
 	author: {
 		name: "David Varazinskis",
 		email: "dvarazinskis@gmail.com",
